@@ -1,6 +1,6 @@
 # Curso de HTML5 e CSS3
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/felizardo27/curso-html-css/tree/main/aulas-pdf/)
+* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
 * [Código disponível para os exercícios](https://github.com/felizardo27/curso-html-css/tree/main/exercicios/)
 * [Execute os exercícios aqui](https://felizardo27.github.io/curso-html-css/exercicios/)
 * [Execute os desafios aqui](https://felizardo27.github.io/curso-html-css/desafios/)
